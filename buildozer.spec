@@ -6,9 +6,9 @@ package.domain = com.shvertex
 
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,json,txt,csv,wav,ogg
-version = 2.2
+version = 3
 
-requirements = python3,kivy,requests,certifi,rsa,pyasn1
+requirements = python3,kivy,requests,certifi,rsa,pyasn1,pyjnius
 
 orientation = portrait
 fullscreen = 0
