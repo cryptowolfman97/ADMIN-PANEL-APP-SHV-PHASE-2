@@ -12,7 +12,8 @@ requirements = python3,kivy,requests,certifi,rsa,pyasn1,pyjnius
 
 orientation = portrait
 fullscreen = 0
-icon.filename = icon.png
+icon.adaptive_foreground.filename = foreground.png
+icon.adaptive_background.filename = background.png
 android.permissions = INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 android.api = 33
 android.minapi = 21
